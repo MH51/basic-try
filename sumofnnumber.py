@@ -1,4 +1,4 @@
-#7.5 for sum of a nuber
+# for sum of a nuber
 l1=int(input('enter number for sum :'))
 f=0
 for i in range(1,l1+1):
